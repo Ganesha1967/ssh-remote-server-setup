@@ -1,0 +1,23 @@
+# SSH keys and certificates
+id_*
+*_key
+*_key.*
+*.pem
+*.key
+*.ppk
+.ssh/
+
+# Secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.tmp
